@@ -1,3 +1,1 @@
-# Software Engineering Notes
-
-## by Mehmet Konukçu
+# Software Engineering Notes by Mehmet Konukçu
