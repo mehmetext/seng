@@ -1,1 +1,3 @@
-# Software Engineering Notes by Mehmet Konukçu
+# Software Engineering Notes
+
+This repository is created for KTUN Software Engineering students by Mehmet Konukçu.
