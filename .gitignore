@@ -1,3 +1,10 @@
+# for c
 *
 !/**/
 !*.*
+
+# for java
+*.class
+
+# general
+.DS_Store
